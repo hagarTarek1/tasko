@@ -4,4 +4,4 @@ Tasko_app_Firebase .
 
 ## Project Description
 
-This project is helps you to add, edit and delete your tasks
+This project helps you to add, edit and delete your tasks
